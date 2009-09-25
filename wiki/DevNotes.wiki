@@ -1,0 +1,11 @@
+#summary Some notes to help development.
+#labels Phase-Implementation
+
+== Language selection ==
+Edited sytem/application/libraries/MY_Controller.php Site_Controller
+
+== Default start page ==
+Edited application/config/routes.php
+
+== PHPExcel ==
+Warning: if the memory limit for PHP is too low, there will be an error (blank page). Assign at least 32Mb
